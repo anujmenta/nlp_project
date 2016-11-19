@@ -1,0 +1,365 @@
+Did not process What is the most Chinese-style name/brand?
+
+Did not process What if Arvind Kejriwal was not an IITian?
+
+Did not process Who are you?
+
+Did not process Are we all Bayesians?
+
+Did not process What is Addepar?
+
+Did not process How is 0/0=2?
+
+Did not process What does relateIQ do?
+
+Did not process Which would you rather be stuck in a room with for an extended period, a smartass or a dumbass, and why?
+
+Did not process What are some must-read HBR posts/articles?
+
+Did not process Why not PhoneGap?
+
+Did not process What is Quora?
+
+Did not process What is zepto.js?
+
+Did not process What am I?
+
+Did not process What is ibeacons?
+
+Did not process Who were the Aryans?
+
+Did not process What is demosclerosis?
+
+Did not process What is a Lagrangian?
+
+Did not process Is Quora idiot-proof?
+
+Did not process What is UTF8?
+
+Did not process What is this?
+
+Did not process Who was humblefool?
+
+Did not process What is CafeBots about?
+
+Did not process What are we?
+
+Did not process Is JDK_HOME for the JDK and JAVA_HOME for the JRE?
+
+Did not process Why are we here?
+
+Did not process Naaz
+
+Did not process Why isn't it easy to buy tardigrades as pets?
+
+Did not process What are some must-follow subreddits?
+
+Did not process Why me and not you?
+
+Did not process Why not now?
+
+Did not process How is Gigya doing?
+
+Did not process Why me?
+
+Best Match for the question  Why is everyone so obsessed with picking faults with Apple's new maps on the iPhone?
+is : What do Apple employees think of the iOS 6 Maps app?
+
+Best Match for the question  Who is the most over-rated Bollywood actor?
+is : Who is the most versatile actor or actress in bollywood?
+
+Best Match for the question  What did it take to publish your first paper in the top journal in your field?
+is : What was the paper that took many years to get published?
+
+Best Match for the question  What is negative working capital?
+is : Why are VCs so negative?
+
+Best Match for the question  Which creates the most wealth for general partners: private equity funds or hedge funds?
+is : Which requires the most talent - hedge funds, private equity, banking, or venture capital?
+
+Best Match for the question  What are the most famous Japanese works of art?
+is : Which are some Classical Chinese phrases or characters that are commonly used in modern Japanese but not as much in modern Chinese?
+
+Best Match for the question  How does Quine Relay work?
+is : How does SoundHound work?
+
+Best Match for the question  How good in math was Paul Dirac?
+is : What things can Math describe better than English?
+
+Best Match for the question  What could a 16 year old boy do to earn some profit and acquire experience with capital of $1500?
+is : How should I use $4,000 to make a profit of $20,000 in a year? Should I buy stocks or invest in small business?
+
+Best Match for the question  How does signup/registration form length impact conversion?
+is : What are "impact points" on ResearchGate?
+
+Best Match for the question  What has the experience been like for people taking part in Adeo Ressi's Founder Institute program?
+is : How do programs like Y Combinator and TechStars compare to The Founder Institute?
+
+Best Match for the question  Does China secretly want to invade and conquer the US?
+is : Why did the Huns led by Atilla invade Europe and not China?
+
+Best Match for the question  What fashion is popular with Chinese teenagers?
+is : Who are the most popular fashion bloggers in China?
+
+Best Match for the question  Who are some of the most impressive teacher/student or mentor/protegee pair in fiction?
+is : Who are the best anti-heroes of fiction?
+
+Best Match for the question  Will the United States become even more divided?
+is : How can I become the President of the United States in 50 years?
+
+Best Match for the question  What are some good seven word stories?
+is : What is the best story you can write in fewer than 100 words?
+
+Best Match for the question  Do imaginary numbers actually exist?
+is : Does there exist a non-zero number for which its double and long representation are bit equivalent?
+
+Best Match for the question  What are the radiation implications of having the Wi-Fi iPad positioned partially on your body for hours a day?
+is : How is the water bear able to survive such extreme conditions, including the vacuum of space and UV radiation?
+
+Best Match for the question  In an all-cash acquisition, what happens to the stock owned by employees?
+is : Should startup employees prefer stock options or increased salary?
+
+Best Match for the question  How did you feel when you sold your startup?
+is : What does it feel like to sell startup money?
+
+Best Match for the question  What is the most bizarre/toughest/oddest question you have been asked in a job interview?
+is : What one question do you always ask applicants in a job interview, and why?
+
+Best Match for the question  How long did it take you to get 1000+ followers on your blog and what is the best advice you'd give to someone starting a blog?
+is : What are the best ways to get more Twitter followers?
+
+Best Match for the question  What happened to the character Santiago in Friday Night Lights?
+is : What happened to JD McCoy's character in the last season of Friday Night Lights?
+
+Best Match for the question  Many Quorans make it sound so easy to make money and start a business, is this really true?
+is : What businesses make money in non obvious ways?
+
+Best Match for the question  If you could pass a law, what law would it be?
+is : What do you think there should be a law against?
+
+Best Match for the question  What was the toughest time of your life?
+is : Which has been the toughest decision of your life? Did it turn out to be the right one?
+
+Best Match for the question  What is the biggest misconception of Indians about Indian Politics?
+is : What are the biggest misconceptions that Indians have about India?
+
+Best Match for the question  Is India startup friendly?
+is : What are the emerging startups in India?
+
+Best Match for the question  Is honesty the best policy? If so, why are so many people wary of being honest?
+is : How honest are you when people ask how you're doing?
+
+Best Match for the question  What is the biggest problem in your life right now?
+is : What are the three biggest problems on earth right now?
+
+Best Match for the question  What is the best car-sharing service to use in San Francisco: City CarShare, ZipCar, RelayRides, or Getaround?
+is : Why do some people think San Francisco is the best city in the world?
+
+Best Match for the question  What makes a great internship experience?
+is : What are good skills to have for an internship?
+
+Best Match for the question  What are basic facts every person should know?
+is : What's one thing every single person should know how to do?
+
+Best Match for the question  What would happen to the economy if the internet was down for 30 minutes?
+is : Which website would you like to surf if you had came to know that the Internet would end in 15 minutes?
+
+Best Match for the question  What are some fun ways you can ensure you're learning something?
+is : Do you think there is something that everyone should learn? Why?
+
+Best Match for the question  What are the most impressive intellectual achievements completed by persons under 20 years old?
+is : Who are some of the highly accomplished athletes known to have outstanding academic records?
+
+Best Match for the question  What is the single best thing you've removed from your life? Why?
+is : What is the weirdest thing you've done in your school/college life?
+
+Best Match for the question  What's the hardest part about cooking healthy food?
+is : How do I cook good and healthy food when living alone?
+
+Best Match for the question  What are some must-read books written by successful entrepreneurs?
+is : What books should entrepreneurs read?
+
+Best Match for the question  I'm on an Android, and want to play chess with friends using iPhones.  What app can I use to do this?
+is : Which Android Apps make the phone a great tool?
+
+Best Match for the question  What is the link between rabies and hydrophobia?
+is : Do the psychiatric adverse effects of toxoplasmosis infection last after the infection ended?
+
+Best Match for the question  Who are the worst Britons to have ever lived? Why?
+is : Who is the greatest man/woman that ever lived and why?
+
+Best Match for the question  What is the ultimate secret of stock trading?
+is : Is it possible to learn about investing in stocks, trading and how the market works by ourselves?
+
+Best Match for the question  What are the most creative ways you could market your startup with only $50?
+is : What are the most creative ways that a startup addressing a two-sided marketplace has enticed people to try its product/service?
+
+Best Match for the question  In an A/B test, how do I calculate statistical confidence for revenue per visitor?
+is : Where can I find data on average cost per action (CPA) rates by vertical?
+
+Best Match for the question  What are the alternatives to custom search besides Google CSE, Y! BOSS and  IndexTank?
+is : Why is Yahoo not as innovative as Google?
+
+Best Match for the question  Who are the best criminal hackers in Silicon Valley?
+is : Who are the best programmers in Silicon Valley, and why?
+
+Best Match for the question  Why do most people advise you to "be yourself"?
+is : Why do people advise "traveling" so much when I ask them about life advice?
+
+Best Match for the question  Why did Adolf Hitler get so angry whenever he gave a speech?
+is : I get nervous when I give a speech in front of people. How do I get rid of my nerves?
+
+Best Match for the question  Can you solve my name in math?
+is : How do math geniuses learn math?
+
+Best Match for the question  Why is Africa so poor?
+is : Why is India so poor?
+
+Best Match for the question  What things take more time to build than to destroy?
+is : What things take more time to destroy than build?
+
+Best Match for the question  What is the real risk of pirating Microsoft software as a startup business vs an individual user?
+is : Is there a secret inverse Moore's law that major software companies (Microsoft, Google) apply to their products, in collaboration with hardware companies?
+
+Best Match for the question  What is it like to direct a film you've also written?
+is : Is there website similar to Goodreads, but for movies? I like the idea of being able to create shelves for books, but it would also be good to list movies one has seen according to their genre.
+
+Best Match for the question  What should everyone know about the Business Model Canvas?
+is : What should everyone know about Quora?
+
+Best Match for the question  What are some of the best sports quotes of all time?
+is : What is the best sports quote you have read recently?
+
+Best Match for the question  Who has wasted the most time of your life?
+is : What do you do if you're 24 and have wasted a lot of time?
+
+Best Match for the question  What advice would you give to a 16/17 year old who wants to become an astronaut?
+is : What advice would you give to a 16/17 year old girl who wants to become a physicist?
+
+Best Match for the question  As a non-student, how do you keep up with interesting work in academia?
+is : How do I know whether I should continue with academia if my PhD is in trouble?
+
+Best Match for the question  What is the one food you love but wish it was better for you?
+is : What is something you wish you were better at?
+
+Best Match for the question  PhD students: How do you keep your notes while reading scientific papers?
+is : How many research articles do PhD students read during their entire PhD, on average?
+
+Best Match for the question  What is the one attitude that you appreciate the most ?
+is : How does one cultivate a positive attitude?
+
+Best Match for the question  Do you think the "McDonald's hot coffee" lawsuit is frivolous after more information came out after the plaintiffs death?
+is : Will Mountain View yogurt shop Yoogl be sued by Google for trademark infringement?
+
+Best Match for the question  What are the misconceptions of Cyrus as a character in Scandal (TV series)?
+is : How has Cyrus evolved as a character in Scandal (TV series)?
+
+Best Match for the question  Why is travelling so important in life?
+is : What is not important in life?
+
+Best Match for the question  What's the most heartbreaking novel you've ever read?
+is : What is the most infuriating book you've ever read?
+
+Best Match for the question  How do some of the successful web/mobile companies track user engagement?
+is : What products have the very best onboarding user experiences?
+
+Best Match for the question  How is Shah Rukh Khan different from the other Khans or actors of Bollywood?
+is : What is so great about Shah Rukh Khan?
+
+Best Match for the question  What sort of skill test should a UX Designer expect during a job interview?
+is : How does one prepare for a UX Design job interview?
+
+Best Match for the question  Does window.location.hash work across all browsers?
+is : What are the ways to code a browser add-on application?
+
+Best Match for the question  I am unable to choose between PHP/Codeigniter, Ruby/Rails, and Python/Django for development of an online job portal with heavy traffic, can anyone suggest me which technology to use?
+is : If you were to start a website with as much traffic as Facebook from day 1, what technologies would you use to make it?
+
+Best Match for the question  What type of answers are employers looking for during a pre-employment assessment test?
+is : Which tests test what types of reasoning one is best at?
+
+Best Match for the question  Is Globallshare a scam or is it legit?
+is : What are some businesses that are in the gray zone between scam and legitimate?
+
+Best Match for the question  In one sentence, how would you advise someone to become financially wealthy?
+is : Does one person becoming more wealthy necessarily mean another becomes poorer?
+
+Best Match for the question  Which app or program has become indispensable to your daily life?
+is : As a 19-year-old, how should I plan my life to become a successful person?
+
+Best Match for the question  What is so great about Quora?
+is : What are some great work-outs for the mind/brain?
+
+Best Match for the question  Why do so many Americans act like life ends after college?
+is : Are there any people who had a pathetic college life?
+
+Best Match for the question  What does it mean when I want to torture animals to death?
+is : If you were an animal, what animal would you want to be and why?
+
+Best Match for the question  What is it like to be a Goldman Sachs entry level associate?
+is : What is salary/bonus like for entry level investment professional at PIMCO?
+
+Best Match for the question  What am I missing out on by going to MIT over Stanford? How can I make up for it?
+is : How many former IMO, IOI, IPhO, IChO competitors go to MIT, Stanford, Caltech, CMU, Harvard, Princeton each year?
+
+Best Match for the question  How are technical support staff for a Cricket team hired and how is the experience of working in such jobs?
+is : If programmers are in such demand, why are companies not hiring people with skills that lack "on the job" experience?
+
+Best Match for the question  What are examples of tech businesses that run on auto-pilot?
+is : Do you have to be tech savvy to start a business these days?
+
+Best Match for the question  What is a dangerous metaphor, quote, phrase, or piece of advice that has gotten people into trouble?
+is : What is the stupidest piece of advice someone has given you?
+
+Best Match for the question  What advice can neuroscientists give to UI/UX designers?
+is : What advice would you give to a wannabe product designer with no previous knowledge?
+
+Best Match for the question  Is there any academic research about the economic impact of corporate buses in San Francisco?
+is : How did the Puritans influence the political, economic, and social development of the US North from 1630 through 1850?
+
+Best Match for the question  How can I develop interest in my studies?
+is : How do you develop a genuine interest in something you have no interest in?
+
+Best Match for the question  How do I find out about the business model of a company?
+is : What is Edmodo's business model?
+
+Best Match for the question  What are the best books on Roman History?
+is : Which Malcolm Gladwell book is the best?
+
+Best Match for the question  How should a small startup find office space in Palo Alto?
+is : What are the major startups based in downtown Palo Alto?
+
+Best Match for the question  What happens when a country defaults?
+is : What happens to countries in debt?
+
+Best Match for the question  What is the closest TextMate equivalent for Linux (excluding Emacs and Vim) to be used primarily for Python development?
+is : How useful is Matlab, for Kaggle, as compared with R and Python?
+
+Best Match for the question  What do traders think about stopping high-frequency trading by having financial markets clear every second?
+is : What's the dificulty of getting a Trading Assistant/Junior Trader job in a major financial centre?
+
+Best Match for the question  Should there be a law that if parents take their kids' phones away, the parents should give them back in less than 20 minutes?
+is : How do parents think about the decision to send their kids to boarding school?
+
+Best Match for the question  How did AC win the war of currents? What makes it superior for the distribution of electricity?
+is : Do people want Free electricity with 8-10 hours of power cuts like in Delhi or 24 hours power supply at relatively higher prices like in Gujarat?
+
+Best Match for the question  How did Instagram get its first 25,000 signups?
+is : How did Shopify get started?
+
+Best Match for the question  What drove Quora's recent spike in traffic (July, 2013)?
+is : How was TechCrunch traffic affected by their major redesign in July 2011?
+
+Best Match for the question  What are you supposed to do with your life?
+is : Life: If your life was one colour, what colour would you be?
+
+Best Match for the question  What are some startup ideas for India?
+is : What are the emerging startups in India?
+
+Best Match for the question  Why do they call fellow Indians "chutiya"? What does that mean?
+is : What do other Indians think of Kannadigas?
+
+Best Match for the question  What are the most sinister real-world conspiracies in history?
+is : What is the most ridiculous and amusing conspiracy theory ever?
+
+--- 115.696314096 seconds ---
